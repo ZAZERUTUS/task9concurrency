@@ -12,7 +12,7 @@ import java.util.List;
 import java.util.concurrent.ExecutionException;
 
 
-class ClientObjectTest {
+public class ClientObjectTest {
 
     private ServerObject serverMock;
 
